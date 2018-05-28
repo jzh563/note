@@ -1,0 +1,3 @@
+git1显示end按q退出
+   2.commit esc退出编辑模式，：wq退出
+   3.cd空格/d/github 转换目录，目录间有空格加单引号
